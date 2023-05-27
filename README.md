@@ -19,5 +19,6 @@ cd html
 ```
 nano index.html
 ```
+```
 php -S 127.0.0.1:8448 -t /sdcard/html
 ```
